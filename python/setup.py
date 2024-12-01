@@ -87,7 +87,7 @@ def main() -> None:
 
     setup(
         name="xgrammar",
-        version=get_version(),
+        version="0.1.0-alpha",
         author="MLC Team",
         description="Efficient, Flexible and Portable Structured Generation",
         long_description=open(os.path.join(PROJECT_DIR, "README.md")).read(),
